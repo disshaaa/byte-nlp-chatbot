@@ -59,19 +59,6 @@ The Gradio interface will launch in your browser at http://localhost:7860.
 
 ---
 
-## 📚 Model Details
-
-| Task               | Model Used                                      | Fine-Tuned |
-|--------------------|-------------------------------------------------|------------|
-| Summarization      | t5-small (fine-tuned on CNN/DailyMail)          | ✅         |
-| Paraphrasing       | Vamsi/T5_Paraphrase_Paws                         | ❌         |
-| Grammar Correction | vennify/t5-base-grammar-correction              | ❌         |
-| Sentiment          | finiteautomata/bertweet-base-sentiment-analysis | ❌         |
-| Translation        | Helsinki-NLP MarianMT                           | ❌         |
-| Question Answering | t5-small (prompt-engineered with context)       | ✅         |
-
----
-
 ## 🛠 Future Work
 
 - Add document-level summarization and QA
@@ -95,4 +82,4 @@ The Gradio interface will launch in your browser at http://localhost:7860.
 This project is open-source and free to use under the MIT License.
 
 ---
-
+⭐ Star this repo if you found it useful!
